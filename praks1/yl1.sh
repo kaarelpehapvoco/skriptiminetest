@@ -1,0 +1,4 @@
+#!/bin/bash
+echo -n "Tere, "
+echo -n $(whoami)
+echo "!"
